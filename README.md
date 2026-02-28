@@ -1,17 +1,17 @@
-# 🔋 Blockchain-Based Digital Passport for Retired EV Batteries
+# Blockchain-Based Digital Passport for Retired EV Batteries
 
 A comprehensive, decentralized ecosystem for tracking, verifying, and repurposing electric vehicle batteries. This project combines **Blockchain Technology** for immutable lifecycle auditability with a **LangGraph-powered AI Multi-Agent System** for advanced diagnostics and marketplace orchestration.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-### 📋 Digital Battery Passport (ERC-721)
+### Digital Battery Passport (ERC-721)
 - **Immutable Traceability**: Every battery is minted as a unique NFT, recording its journey from manufacturing to recycling.
 - **Lifecycle Events**: Verifiable logs for Manufacturing, Usage, Maintenance, ownership Transfers, and Recycling.
 - **Role-Based Access**: Specialized interfaces for Manufacturers, Owners, Service Providers, and Recyclers.
 
-### 🤖 AI-Driven Intelligence (LangGraph Ecosystem)
+### AI-Driven Intelligence (LangGraph Ecosystem)
 - **Multi-Agent Orchestrator**: A coordinated pipeline of specialized agents:
     - **Battery Health Agent**: Predicts SoH (State of Health) and RUL (Remaining Useful Life).
     - **Risk & Fraud Agent**: Identifies safety hazards and suspicious data patterns.
@@ -20,14 +20,14 @@ A comprehensive, decentralized ecosystem for tracking, verifying, and repurposin
     - **Recommendation Agent**: Intelligently matches batteries to user use cases (solar, DIY EV, etc.).
 - **Autonomous Transactions**: AI agents can facilitate battery purchases directly through the marketplace API.
 
-### 🛒 Second-Life Marketplace
+### Second-Life Marketplace
 - **Verified Listings**: Only batteries with a verified blockchain history can be listed.
 - **Secure Buy Flow**: End-to-end purchase process integrated with Supabase metadata and blockchain event logging.
 - **Deep-Link Diagnostics**: One-click AI analysis for any listing in the marketplace.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Tech Used |
 | :--- | :--- |
@@ -39,7 +39,7 @@ A comprehensive, decentralized ecosystem for tracking, verifying, and repurposin
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── contracts/               # Solidity Smart Contracts
@@ -53,7 +53,7 @@ A comprehensive, decentralized ecosystem for tracking, verifying, and repurposin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - **Node.js** (v18+)
@@ -100,14 +100,14 @@ npm run dev
 
 ---
 
-## 🔒 Security & Verification
+## Security & Verification
 - **QR Code Integration**: Every battery passport generates a unique QR code for instant field verification.
 - **Access Guard**: Sensitive operations (like recycling registration) are protected by role-based authentication.
 - **Blockchain Sync**: Automated service ensures that the local database always reflects the ground truth of the Ethereum ledger.
 
 ---
 
-## 🌿 Contribution
-Developed to accelerate the global transition to sustainable energy through battery circularity. 🚀
+## Contribution
+Developed to accelerate the global transition to sustainable energy through battery circularity. 
 
 **© 2026 EV Battery Passport Project**
