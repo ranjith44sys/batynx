@@ -1,0 +1,71 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Usage Phase (Snapshot)",
+    "type": "object",
+    "required": [
+        "mileage",
+        "averageTempCelsius",
+        "sohPercentage",
+        "snapshotDate"
+    ],
+    "properties": {
+        "mileage": {
+            "type": "number",
+            "minimum": 0
+        },
+        "throughputKwH": {
+            "type": "number",
+            "minimum": 0
+        },
+        "averageTempCelsius": {
+            "type": "number"
+        },
+        "maxTempCelsius": {
+            "type": "number"
+        },
+        "sohPercentage": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "snapshotDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "telemetry": {
+            "type": "object",
+            "properties": {
+                "vAvg": {
+                    "type": "number"
+                },
+                "vMin": {
+                    "type": "number"
+                },
+                "vMax": {
+                    "type": "number"
+                },
+                "iAvg": {
+                    "type": "number"
+                },
+                "tAvg": {
+                    "type": "number"
+                },
+                "tMin": {
+                    "type": "number"
+                },
+                "tMax": {
+                    "type": "number"
+                }
+            }
+        },
+        "avgDepthOfDischarge": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "peakCurrent": {
+            "type": "number",
+            "minimum": 0
+        }
+    }
+}

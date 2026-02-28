@@ -1,0 +1,682 @@
+[
+    {
+        "batteryId": "BATT-999",
+        "internalId": "REF-29BD86",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xec6ffbc24775bd41a767d4163d82197b2749109fd10e80e74f97c915842a344a",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-101",
+        "internalId": "REF-C4075A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x0c7d6dc2e1c1f8a6c7a356314f3138d6398012bc57751a993b7b67b1bf3e9929",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-XYZ",
+        "internalId": "REF-FF0075",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb992a809e187b7840e69e01a5ac17eeb4b9bd5ce768dadcfc72352bf6150bb01",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "batt-999",
+        "internalId": "REF-B77D0A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x104cc7c927753428b8fc8eaf7f5706d845e3d78ff675dd8bfc3016bf50136963",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "batt-999",
+        "internalId": "REF-CCB649",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x116a78bf0dc4f62ff19e8dff88c24d69fb3586dcd2840834a96ed57194ef702c",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "batt-999",
+        "internalId": "REF-CF0108",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x8047ae4c8d85b903c9c9a3fc4ffd13ebf4d0a2a51919f97f4c482bb419b35dbb",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-XYZ",
+        "internalId": "REF-9E2F30",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x97e38ae8c98ea9693a2871a92c0eb2b4c6c866d8aa3da3f63dc79116a5d4e967",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-001",
+        "internalId": "REF-AA6881",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x0e91bfbe25f9d24c5ffccba447610e9642e473eff00fcefb39896a9ba82337c1",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-101",
+        "internalId": "REF-1FC09F",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x189700288890bf332991ce17ab455fedf42049b6678fdea5b06cafdbf0bb793a",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-123",
+        "internalId": "REF-1E5789",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x68ae30fdb36c4b2763b22dd74fb45a3e452b4ff5789c2091136681c99825ac9d",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-EB8970",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x481c173496c8c2482b38f4398201b83bf742b658a8cab8cb67aa318de240a498",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-9A2E3D",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x68c6f3ce038f90b5ba74952303c303b4c051a3a1f52a48557031765ca052a557",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-FE6528",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x7f547e93424eb0a48306b28d3f63460f0f41a99dc301cefcfe413251c481f99e",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "above shown battery",
+        "internalId": "REF-A5647B",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x9e52ae8c7ab180d6600ee3f163e9f2ab5cc63e1142d47554abce01cacec640a5",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-BAB5E3",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x15f1df56b3a19ab06891a12c511d43b1fe11b6d12c58593bbb132a6cf8fa99ea",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-04A3F0",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x6ddc96e3a838d8e2310a14fcfa1ca211c7c9bb3f0d8d7e8cceadd29d99272bf9",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-8831A0",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x77af9099e3b2c8f0db861f81448414949fc3e0e36e4abba8e386d4a00c0608d9",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-9F30C7",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xd3c840a62e3b502ad17faed6ab942cb29cf517e2dcca519ba20377a03e3397d8",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-BC2018",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xfce3db53ee4f239b5d5672065aa45c5915cfb2b0838fe5fa67e0fba40a72de44",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-90042C",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe23d986a45aedd7100aad29f652debb7a52bb7ec654487b8e7bc84c93ee1615d",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-67922A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xf6876f6639b53ce61e71531506dbc5572094f36290884b1cc9e88c18e7ef3f54",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-920730",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x7fb6e547d84e1d2ebf3889bf3ba50d5e426dbeb97247d470839b363324191434",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-56C490",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe014415e17f749f5b8e96b7cff11f291a7f77dc6e4af038cefa501f49f33c0f4",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-02FE6C",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xc34ac635302b88fb9b18cdaf63f8c9b9317b84a31e75251e0eb1e79b101c6085",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-48C515",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xcdaec8fc9ccddd3de18519e36b6de6f0e24aa3bfba26dd7e0792c923b9c5febb",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-3FB1DD",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb51eb9cd5ba02f817243e51e00b81573fc31591079d0dcd66f20062dc41a3fbc",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-789575",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x3e00a5dc1e96bb632622cb78b6ce6a13ad6d563cab7c2078382a77041bcf591f",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-92CDDB",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x498f017a1daa4207d1478d48ec64b5bace71b1a1758240da87e48f92c1846d09",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-E3D57E",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x1a5c8df3617fd5be1e3916ba31ca131b1021ad55e9b37221679ee2737ce3b7d7",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-344767",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe60e483d0e41758b897d827831804f43fdbe58e4017b130a201061e5ba1f1f0e",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-B6CCBB",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xa5f499e6aa65ad6da34dcdfb577f0161dff85a4766b4951726e23c473ddb6d94",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-7D4439",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb3a444fedebe2762c0e7f05ca7e477ece91290107f7902ccb227d5d85a50390b",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-35713E",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x97cab8733f0f470d85285bc1a7ec5353aa8235b403264880337cf74f60352c9f",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-53D11E",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x4034ee7669944492f0d67dfdea9af68cea9fcda0011bc824145d3eafddf500cd",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-03BC88",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x8151c6897ddb23d31fe901d7ea4a308235268f4f551f5b36c6c723e930de06e7",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-A26253",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x419908749a00bf7612b4dcea6d20f4ef644d31b15932a32f2d91db9ae50b6679",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-614D4B",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe9bbb249eba7e26231376209bad9c4caba08addc8d16f16bc072eed00da9e550",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-2F346D",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe738dd3bb3f0093c37afc8b0d842a0a0fc031d65889c9b810444d1a106a07131",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-02838D",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x92b3ca4e1ee9469d4d9fdb02163edd4fb73cc5adc9a1626b63fb482853bf43e4",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-1FCFD4",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xc701f9a10b5a18791f1255d78145468076b23f7748dbcce98e6d53d0d65f4fe7",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-6E4390",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x8abd4ef01780de1ae38dc944395cb0bd29681ed9b42d1e31076440304e6ff549",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-D80D50",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe020c1d846748cde6b9e922d373d22fb2289757a35dc986a7c52a771c4fa9df0",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-89EC05",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x1342b352d1bae95ed880013d57d39ddad53d8cf67c8d9e9bc35a706bc9cf5539",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-FFDAA3",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xd6941420751a47bc65afe5854dfea22b9503d4e32dd2a82c6796408a00d22d6b",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-6452DB",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x462e516a388a641c8afe9ef93f1a9f02b81ad5dae09ec80e0a6dd46362b16aa8",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-BE91CC",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x72d882b8d8495aff5bcd05eac5e62301b11a5eeec44b79b405b6627c3a3850f9",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-F2B59C",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xf175fc65d8d96713b829f25fae97f570669d10509f17a51c734923309ea47eea",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-B17093",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x2e92180a4d2945384189c6d2f0bbfde55defd832369116d48eb7c2b015a2dee8",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-ABCD62",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x29a697c2eb5ede866ce482b2418da1d8a00a425c7a8e7188b4331b14d3c9309e",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-58DCC0",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb59eb7167cb97a3f0c3e04a82b0c7f708451bca43be3cd12c19373b48af24197",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-08F292",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xd3ef61a23f9bb0f02be597ab917a82897e8a75c30b86aa1f50b4d3b50723f09d",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-909A1D",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x9d45912193663f6400d4e626719bfe8c803d827eb7019de7c8ae18155aa0ba3f",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-0DE884",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xcf6c1c7aeb62a378ce9717909362ceab170dd9fdc62f46c3667f7766be37da35",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-B8BC88",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb45772589c85e48fbc1a99c1deae85b5a81e121c8bc7b35f00ccf5f59373c8aa",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-2B9BC9",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xe43df9d8671de681c812517a7141dde9e5dbec9d923ebf72d6b007b36a1d1513",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-30DEA2",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x0f01d83e7d1da34ca154e9776d4c64acb1fecb39a68e49e3c11536e2e3e27558",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-2D7753",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x657cbb7c9f32c0abc0009545ed8634166be6c2ccf8b9301c839ce8a7e591772b",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-6E5181",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xc0b228e5182baf29b0bf08781865d57cad11854b3d179ace72e2dde25fa57760",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-41273D",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x6546174dd203bbaacd9bca5a569fb3b585eed2a849c20e0e2b9616abdcff14f9",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-3BFA2A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x1ec4ee224604f123644af56f1edd92b8b5637c94e78056cf26da947e4d213440",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-8D7351",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x93f2b91c27e29e085924de531a2a5e85a8245033fd569d418c4b4378b8187de1",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-D0E27A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x40e1f4928fd04100794f50e78188ed750cce1ec3ddbc7f313449fcff18b44cc7",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-9DA872",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xbef782be94a9d6efdb34341a63a251292a0142ddfe1b438fae57c45f25b0075c",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-2C1457",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xdb050a66d069c49775ef338bb4526f94af85b4093e05a4e6c999f30597728af4",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-C86DAC",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x0573d5dde98869a33ca6db7081feabe0bf0e9d6de7e9ffd589035bfcf2ee4cfc",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-BFFA8A",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xbea5b21f027dcb56a0cb6db6f9f036a11b83dfbaee87b3ed54ee82be42dbadf9",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-FC72A0",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xbe9eaa6873426ed3ec111c5df17db6fc71f3671a6c21338fa20d2ce7821e5d13",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-88D634",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x7950703d6428b9ca3f1c22c5562018f947d2c7f09f75eb60ad3cc3e7c92e1a2d",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-3C3ABF",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xbe050f7596db8ab8c3395e329c07f637cbd301a4a2df25a827cf6c92152e8ddc",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-C82306",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x5d2b43de137b8b908f6f333c23e5497591d0de19bb2205cd8b944b1e1ff5dce2",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-D38FB4",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xb985f0dc7e8b3a9cc960c7d2a50ccf4e661bc03f32e920d0e906aa7ed22df578",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-E0DD61",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x5a1ac6314e16c8b83e7fc1b142d4ef3610793c847ceea99a6ac8278e219d07a3",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-15A2CD",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x893cb744dbb9abba7ba300332c5a2cecdfb9bc5f26d3138fbe34ec4105a3742e",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-B5E1D2",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x24b402bddcbbdca5c1cdf6ca8e3a4fb05b00c41b5460830595c48bc3348d64c3",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-C76885",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xf423af56ff712a60e089e13dc88a744ac574b968b11ccb608a4befd09d847a17",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-BB0ECA",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x0c477855659c1de3266f7a93c55732755eef7f4b755cdf0d2fa359d3b2749a2b",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-0CF7EF",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x5918e8602638fc825df4e64eee2e71def7d52e140fc9acb20fd10172bdc91720",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-D9D205",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x23d9e71bc79fb874980df51a606a369946d9fb80914f93b1b27fcea4559bb75d",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-578F76",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xa9b613789a9e95bd868afa8fe75dbbd1311d8a0bdfb02d8136b3409f20bbcf35",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-D866F7",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xa8ee8c17dc9501a24e58ef0de7fd5199d2de2c25e75f654f2420a903bbe34b0f",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-4EE751",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0x9df85a5773155056680c38979ed20bfe723fc6a8cca0236a814381e16d0e75dc",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-B04BAB",
+        "price": 0,
+        "timestamp": "2026-02-27T19:57:00",
+        "tx_hash": "0xd918919dca38191ee79a66fda05cedd1bcc1e492f89873a688cdded426e1551b",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BATT-HG-101",
+        "internalId": "REF-311B5B",
+        "price": 0,
+        "timestamp": "2026-02-28T03:15:00",
+        "tx_hash": "0x51af2e43ac83653e8c93306549c894d406d40af9fac22fe36d552aa08c4245c2",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BAT-274",
+        "internalId": "REF-FA9879",
+        "price": 0,
+        "timestamp": "2026-02-28T03:15:00",
+        "tx_hash": "0x8b32091dcbe0792919c7a036e2e2341d39b986930c65a63720596054e39d1896",
+        "payment_mode": "manual_confirmation"
+    },
+    {
+        "batteryId": "BAT-02",
+        "internalId": "REF-03724E",
+        "price": 0,
+        "timestamp": "2026-02-28T03:15:00",
+        "tx_hash": "0x7066f38545efc388a75f5ee6f1af5e4d0da228cc41e00cc4cf04f32933663d3c",
+        "payment_mode": "manual_confirmation"
+    }
+]

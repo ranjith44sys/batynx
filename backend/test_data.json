@@ -1,0 +1,19 @@
+{
+    "batteryId": "AUTO-VERIFY-999",
+    "serialNumber": "SN-999",
+    "chemistryType": "LFP",
+    "capacityKWh": 75,
+    "manufacturingDate": "2024-01-30T10:00:00Z",
+    "manufacturerId": "MFG-TEST",
+    "carbonAmount": 120,
+    "ownerAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "telemetry": {
+        "vAvg": 3.75,
+        "vMin": 3.2,
+        "vMax": 4.2,
+        "iAvg": 0.2,
+        "tAvg": 23,
+        "tMin": 19,
+        "tMax": 28
+    }
+}

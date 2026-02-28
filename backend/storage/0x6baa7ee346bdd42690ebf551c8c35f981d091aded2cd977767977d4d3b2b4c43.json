@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-109",
+  "serialNumber": "SN-10987",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-27T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "attachment": null,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0x255619c96cb85ee7244349d2bd6fabd582d5c2aed9b4f8a8822569656a7386d4"
+}

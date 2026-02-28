@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-102",
+  "serialNumber": "SN-120834",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-27T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "attachment": null,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0x09178978ed30b47a73be295af3c988a1234c5ae28858c45e68248cf354f8b43b"
+}

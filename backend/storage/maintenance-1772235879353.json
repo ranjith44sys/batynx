@@ -1,0 +1,19 @@
+{
+  "serviceDate": "2026-02-27T18:14:00.000Z",
+  "serviceProviderId": "SERVICE-001",
+  "repairType": "ComponentReplacement",
+  "postRepairSOH": 98,
+  "technicianSignature": "RAJ",
+  "replacedComponents": [],
+  "telemetry": {
+    "vAvg": 3.7,
+    "vMin": 3.2,
+    "vMax": 4.2,
+    "iAvg": 0.5,
+    "tAvg": 25,
+    "tMin": 20,
+    "tMax": 35
+  },
+  "healthRestorationFactor": 5,
+  "batteryId": "BAT-102"
+}

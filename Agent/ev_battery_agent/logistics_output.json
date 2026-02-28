@@ -1,0 +1,11 @@
+{
+    "route_summary": "Kozhikode, Kerala to Munnar via NH766 (Mocked)",
+    "distance_km": 150.5,
+    "eta_hours": 3.5,
+    "estimated_cost_inr": 6772,
+    "crm_sync_status": "success",
+    "crm_record_id": "CRM-LOG-9201AAAA",
+    "carrier_suggestion": "Kerala Specialized Carriers",
+    "status": "generated",
+    "error": null
+}

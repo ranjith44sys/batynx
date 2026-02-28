@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-005",
+  "serialNumber": "SN-8000",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-28T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0x6b123da12dc6f3cf3d03d541cf0d0b533b5495f7a5cd2dda468cdefba0ec0511",
+  "lifecycleState": "SecondLife"
+}

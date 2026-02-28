@@ -1,0 +1,29 @@
+[
+    {
+        "id": "BAT-001",
+        "chemistry": "LFP",
+        "capacity_kwh": 40.0,
+        "soh_pct": 85.0,
+        "cycles": 1200,
+        "age_years": 3.5,
+        "rul_estimate_years": 4.5
+    },
+    {
+        "id": "BAT-002",
+        "chemistry": "NMC",
+        "capacity_kwh": 60.0,
+        "soh_pct": 72.0,
+        "cycles": 800,
+        "age_years": 4.2,
+        "rul_estimate_years": 2.1
+    },
+    {
+        "id": "BAT-003",
+        "chemistry": "LFP",
+        "capacity_kwh": 15.0,
+        "soh_pct": 55.0,
+        "cycles": 2500,
+        "age_years": 6.0,
+        "rul_estimate_years": 1.0
+    }
+]

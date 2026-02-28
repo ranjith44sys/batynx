@@ -1,0 +1,14 @@
+{
+  "decommissionDate": "2026-02-28T00:00:00.000Z",
+  "recyclingFacilityId": "RECYCLE-BASE-01",
+  "finalSOH": 80,
+  "finalState": "SecondLife",
+  "recoveryPercentage": 95,
+  "recoveredMaterials": [
+    "Lithium",
+    "Cobalt",
+    "Nickel"
+  ],
+  "certificateOfDestruction": "CERT-1772246341751",
+  "batteryId": "BAT-005"
+}

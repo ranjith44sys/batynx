@@ -1,0 +1,7 @@
+rich
+pydantic
+openai
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyaudio

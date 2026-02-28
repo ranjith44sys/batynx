@@ -1,0 +1,52 @@
+[
+    {
+        "battery_id": "BATT-HG-101",
+        "chemistry": "NMC",
+        "capacity_kwh": 75.0,
+        "voltage_avg": 3.7,
+        "temperature_avg": 25.5,
+        "soh_pct": 92.5,
+        "rul_cycles": 2200,
+        "manufacturing_date": "2023-05-15",
+        "last_service_date": "2024-01-10",
+        "owner_id": "OWN-999",
+        "market_demand": "High"
+    },
+    {
+        "battery_id": "BATT-LFP-002",
+        "chemistry": "LFP",
+        "capacity_kwh": 45.0,
+        "voltage_avg": 3.2,
+        "temperature_avg": 28.0,
+        "soh_pct": 88.0,
+        "rul_cycles": 3500,
+        "manufacturing_date": "2022-11-20",
+        "last_service_date": "2023-12-05",
+        "owner_id": "OWN-888",
+        "market_demand": "Medium"
+    },
+    {
+        "battery_id": "BAT-001",
+        "chemistry": "LFP",
+        "capacity_kwh": 40.0,
+        "soh_pct": 85.0,
+        "cycles": 1200,
+        "age_years": 3.5,
+        "rul_estimate_years": 4.5,
+        "voltage_avg": 3.3,
+        "temperature_avg": 26.0,
+        "market_demand": "High"
+    },
+    {
+        "battery_id": "BAT-002",
+        "chemistry": "NMC",
+        "capacity_kwh": 60.0,
+        "soh_pct": 72.0,
+        "cycles": 800,
+        "age_years": 4.2,
+        "rul_estimate_years": 2.1,
+        "voltage_avg": 3.6,
+        "temperature_avg": 30.0,
+        "market_demand": "Low"
+    }
+]

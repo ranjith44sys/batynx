@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-111",
+  "serialNumber": "SN-111",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-27T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x385f4E9F5098C5bB689DfD320d9Cb95a91c02B3E",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0x032c29198f704c61dfe04a5d2896e026294de4d618e64285a5924aa36b9b8a5d",
+  "lifecycleState": "SecondLife"
+}

@@ -1,0 +1,10 @@
+{
+    "invoice_summary": "Manual trade for battery BATT-123 from Kochi to Munnar for 50000 INR",
+    "trade_confirmation": "Payment is handled off-platform and manually confirmed",
+    "upi_tx_id": "REF-1E5789",
+    "polygon_tx_hash": "0x68ae30fdb36c4b2763b22dd74fb45a3e452b4ff5789c2091136681c99825ac9d",
+    "polygon_explorer_url": "local_ledger_view",
+    "final_status": "completed",
+    "crm_sync_status": "success",
+    "error": null
+}

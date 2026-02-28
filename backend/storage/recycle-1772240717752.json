@@ -1,0 +1,12 @@
+{
+  "decommissionDate": "2025-01-01T00:00:00.000Z",
+  "recyclingFacilityId": "RECYCLE-BASE-01",
+  "finalSOH": 80,
+  "finalState": "Recycled",
+  "recoveryPercentage": 95,
+  "recoveredMaterials": [
+    "Lithium"
+  ],
+  "certificateOfDestruction": "CERT-123",
+  "batteryId": "BAT-000"
+}

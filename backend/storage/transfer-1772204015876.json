@@ -1,0 +1,9 @@
+{
+  "toOwner": "0xBcd4042DE499D14e55001CcbB24a551F3b954096",
+  "transferDate": "2026-02-27T09:23:00.000Z",
+  "updatedSOH": 100,
+  "sellerSignature": "RED",
+  "buyerSignature": "BULL",
+  "fromOwner": "0x123...",
+  "batteryId": "BAT-000"
+}

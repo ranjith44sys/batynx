@@ -1,0 +1,18 @@
+{
+  "snapshotDate": "2026-02-27T21:05:00.000Z",
+  "sohPercentage": 100,
+  "mileage": 0,
+  "averageTempCelsius": 25,
+  "telemetry": {
+    "vAvg": 3.7,
+    "vMin": 3.2,
+    "vMax": 4.2,
+    "iAvg": 0.5,
+    "tAvg": 25,
+    "tMin": 20,
+    "tMax": 35
+  },
+  "avgDepthOfDischarge": 80,
+  "peakCurrent": 1.2,
+  "batteryId": "BAT-005"
+}

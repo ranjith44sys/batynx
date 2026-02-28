@@ -1,0 +1,96 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Manufacturing Phase",
+    "type": "object",
+    "required": [
+        "serialNumber",
+        "chemistryType",
+        "capacityKWh",
+        "manufacturingDate",
+        "manufacturerId",
+        "carbonFootprint"
+    ],
+    "properties": {
+        "serialNumber": {
+            "type": "string"
+        },
+        "chemistryType": {
+            "type": "string",
+            "enum": [
+                "NMC",
+                "LFP",
+                "NCA",
+                "Other"
+            ]
+        },
+        "capacityKWh": {
+            "type": "number",
+            "minimum": 0
+        },
+        "manufacturingDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "manufacturerId": {
+            "type": "string"
+        },
+        "carbonFootprint": {
+            "type": "object",
+            "properties": {
+                "amount": {
+                    "type": "number"
+                },
+                "unit": {
+                    "type": "string",
+                    "enum": [
+                        "kgCO2e"
+                    ]
+                }
+            },
+            "required": [
+                "amount",
+                "unit"
+            ]
+        },
+        "metadata": {
+            "type": "object"
+        },
+        "manufacturerSignature": {
+            "type": "string"
+        },
+        "telemetry": {
+            "type": "object",
+            "properties": {
+                "vAvg": {
+                    "type": "number"
+                },
+                "vMin": {
+                    "type": "number"
+                },
+                "vMax": {
+                    "type": "number"
+                },
+                "iAvg": {
+                    "type": "number"
+                },
+                "tAvg": {
+                    "type": "number"
+                },
+                "tMin": {
+                    "type": "number"
+                },
+                "tMax": {
+                    "type": "number"
+                }
+            }
+        },
+        "cycleLifeExpectancy": {
+            "type": "number",
+            "minimum": 0
+        },
+        "maxChargeRate": {
+            "type": "number",
+            "minimum": 0
+        }
+    }
+}

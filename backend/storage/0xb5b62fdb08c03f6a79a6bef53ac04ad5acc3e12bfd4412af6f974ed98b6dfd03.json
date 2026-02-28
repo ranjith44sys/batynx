@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-02",
+  "serialNumber": "SN-5000",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-28T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x8626f6940E2eb28930eFb4CeF49B2d1F2C9C1199",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0xd9e895d72b922c7d74b11163d1b3602560f4adec1968eaf472deecfb630e022a",
+  "lifecycleState": "SecondLife"
+}

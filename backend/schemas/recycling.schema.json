@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Recycling / End-of-Life",
+    "type": "object",
+    "required": [
+        "decommissionDate",
+        "recyclingFacilityId",
+        "finalSOH",
+        "recoveryPercentage"
+    ],
+    "properties": {
+        "decommissionDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "recyclingFacilityId": {
+            "type": "string"
+        },
+        "finalSOH": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "recoveryPercentage": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "finalState": {
+            "type": "string",
+            "enum": [
+                "SecondLife",
+                "Recycled",
+                "Disposed"
+            ]
+        },
+        "recoveredMaterials": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "certificateOfDestruction": {
+            "type": "string"
+        }
+    }
+}

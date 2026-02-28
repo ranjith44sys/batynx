@@ -1,0 +1,7 @@
+{
+  "battery_id": "BAT123",
+  "manufacturer": "OEM_A",
+  "capacity_kwh": 85,
+  "state_of_health": "92%",
+  "inspection_date": "2031-06-18"
+}

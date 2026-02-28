@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-123",
+  "serialNumber": "SN-10923",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-27T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "attachment": null,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0xe181e7cb1e2ea6f0fac164fe228b216254d3739ec337c1f5e69cfc7e8ca7826f"
+}

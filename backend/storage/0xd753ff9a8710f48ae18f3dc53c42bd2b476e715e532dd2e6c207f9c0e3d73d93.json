@@ -1,0 +1,26 @@
+{
+  "batteryId": "BAT-44",
+  "serialNumber": "SN-81000",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-28T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0xed480321da7649c0ecbb5f874b64f1deb3fbeb45a6310b2fd1ae00410f37d2e4"
+}

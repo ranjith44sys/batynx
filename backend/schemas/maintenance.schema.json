@@ -1,0 +1,85 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Maintenance / Repair Phase",
+    "type": "object",
+    "required": [
+        "serviceDate",
+        "serviceProviderId",
+        "repairType",
+        "postRepairSOH",
+        "technicianSignature"
+    ],
+    "properties": {
+        "serviceDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "serviceProviderId": {
+            "type": "string"
+        },
+        "repairType": {
+            "type": "string",
+            "enum": [
+                "ComponentReplacement",
+                "SoftwareUpdate",
+                "Inspection",
+                "Other"
+            ]
+        },
+        "replacedComponents": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "componentName": {
+                        "type": "string"
+                    },
+                    "partNumber": {
+                        "type": "string"
+                    },
+                    "serialNumber": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "postRepairSOH": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+        },
+        "technicianSignature": {
+            "type": "string"
+        },
+        "telemetry": {
+            "type": "object",
+            "properties": {
+                "vAvg": {
+                    "type": "number"
+                },
+                "vMin": {
+                    "type": "number"
+                },
+                "vMax": {
+                    "type": "number"
+                },
+                "iAvg": {
+                    "type": "number"
+                },
+                "tAvg": {
+                    "type": "number"
+                },
+                "tMin": {
+                    "type": "number"
+                },
+                "tMax": {
+                    "type": "number"
+                }
+            }
+        },
+        "healthRestorationFactor": {
+            "type": "number",
+            "minimum": 0
+        }
+    }
+}

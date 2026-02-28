@@ -1,0 +1,27 @@
+{
+  "batteryId": "BAT-000",
+  "serialNumber": "SN-000",
+  "chemistryType": "LFP",
+  "capacityKWh": 60,
+  "manufacturingDate": "2026-02-27T00:00:00.000Z",
+  "manufacturerId": "MFG-12345",
+  "carbonAmount": 100,
+  "ownerAddress": "0x71bE63f3384f5fb98995898A86B02Fb2426c5788",
+  "telemetry": {
+    "vAvg": 3.8,
+    "vMin": 3.5,
+    "vMax": 4.2,
+    "iAvg": 0.1,
+    "tAvg": 22,
+    "tMin": 18,
+    "tMax": 26
+  },
+  "cycleLifeExpectancy": 3000,
+  "maxChargeRate": 2,
+  "carbonFootprint": {
+    "amount": 100,
+    "unit": "kgCO2e"
+  },
+  "idHash": "0x46ea28b11a438b0b507c813d8319fa347a09e253440c0b190ad4628a36774ef9",
+  "lifecycleState": "Recycled"
+}

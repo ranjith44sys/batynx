@@ -1,0 +1,9 @@
+{
+    "battery_id": "above shown battery",
+    "final_grade": "B",
+    "soh_percentage": 88.5,
+    "rul_cycles": 2100.0,
+    "hazardous": false,
+    "reasoning": "The battery's State of Health (SOH) is 88.5%, indicating it is still in good condition. However, its Remaining Useful Life (RUL) is approximately 2100 cycles, which is a moderate level. Considering the temperature is 35.5C, which is within a safe range, we assign a grade of B.",
+    "report_md": "**Battery Health Assessment**\n\n**Battery ID:** above shown battery\n**SOH:** 88.5%\n**RUL:** 2100 cycles\n**Temperature:** 35.5C\n\nThis battery is in good condition but has a moderate RUL."
+}

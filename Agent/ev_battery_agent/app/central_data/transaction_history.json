@@ -1,0 +1,4366 @@
+[
+    {
+        "timestamp": "2026-02-28T02:41:30.705417",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-BAB5E3",
+            "polygon_tx_hash": "0x15f1df56b3a19ab06891a12c511d43b1fe11b6d12c58593bbb132a6cf8fa99ea",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-B07D78A0",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:41:32.035709",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-04A3F0",
+            "polygon_tx_hash": "0x6ddc96e3a838d8e2310a14fcfa1ca211c7c9bb3f0d8d7e8cceadd29d99272bf9",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-CDAFFA15",
+            "carrier_suggestion": "Kerala Pilot Specialized Carrier",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:41:39.828306",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-8831A0",
+            "polygon_tx_hash": "0x77af9099e3b2c8f0db861f81448414949fc3e0e36e4abba8e386d4a00c0608d9",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-8F95A074",
+            "carrier_suggestion": "Kerala PSC (Specialized Carrier)",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:41:58.789699",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-9F30C7",
+            "polygon_tx_hash": "0xd3c840a62e3b502ad17faed6ab942cb29cf517e2dcca519ba20377a03e3397d8",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-21890F47",
+            "carrier_suggestion": "Kerala Pilot Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:42:16.770457",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manually confirmed off-platform payment",
+            "upi_tx_id": "REF-BC2018",
+            "polygon_tx_hash": "0xfce3db53ee4f239b5d5672065aa45c5915cfb2b0838fe5fa67e0fba40a72de44",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-9D79960D",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:42:34.715774",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Confirmed",
+            "upi_tx_id": "REF-90042C",
+            "polygon_tx_hash": "0xe23d986a45aedd7100aad29f652debb7a52bb7ec654487b8e7bc84c93ee1615d",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-584E5621",
+            "carrier_suggestion": "KeralaPilotHazardous",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:42:52.750985",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manually confirmed off-platform payment",
+            "upi_tx_id": "REF-67922A",
+            "polygon_tx_hash": "0xf6876f6639b53ce61e71531506dbc5572094f36290884b1cc9e88c18e7ef3f54",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-2B88DD60",
+            "carrier_suggestion": "Kerala pilot, recommended carrier - SafeTech Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:43:11.376524",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manually confirmed",
+            "upi_tx_id": "REF-920730",
+            "polygon_tx_hash": "0x7fb6e547d84e1d2ebf3889bf3ba50d5e426dbeb97247d470839b363324191434",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-5E1F9B85",
+            "carrier_suggestion": "Kerala Specialized Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:43:29.191765",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Details: {}",
+            "upi_tx_id": "REF-56C490",
+            "polygon_tx_hash": "0xe014415e17f749f5b8e96b7cff11f291a7f77dc6e4af038cefa501f49f33c0f4",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-E23BFE11",
+            "carrier_suggestion": "Emery Air Freight",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:43:47.217230",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101 manual trade invoice",
+            "trade_confirmation": "Manual payment confirmed for battery BATT-HG-101",
+            "upi_tx_id": "REF-02FE6C",
+            "polygon_tx_hash": "0xc34ac635302b88fb9b18cdaf63f8c9b9317b84a31e75251e0eb1e79b101c6085",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-8250F938",
+            "carrier_suggestion": "Aerotrans Hazardous Cargo",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:44:05.035930",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manually confirmed",
+            "upi_tx_id": "REF-48C515",
+            "polygon_tx_hash": "0xcdaec8fc9ccddd3de18519e36b6de6f0e24aa3bfba26dd7e0792c923b9c5febb",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-02913D2A",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:44:23.840176",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-3FB1DD",
+            "polygon_tx_hash": "0xb51eb9cd5ba02f817243e51e00b81573fc31591079d0dcd66f20062dc41a3fbc",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-06691D07",
+            "carrier_suggestion": "Kerala Chemists Ltd.",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:44:41.895552",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual",
+            "upi_tx_id": "REF-789575",
+            "polygon_tx_hash": "0x3e00a5dc1e96bb632622cb78b6ce6a13ad6d563cab7c2078382a77041bcf591f",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-5329DC77",
+            "carrier_suggestion": "Kerala Specialist Carriers",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:44:59.817845",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-92CDDB",
+            "polygon_tx_hash": "0x498f017a1daa4207d1478d48ec64b5bace71b1a1758240da87e48f92c1846d09",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-09275B8D",
+            "carrier_suggestion": "Kerala Pilot Transportation",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:45:17.944008",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Confirmed",
+            "upi_tx_id": "REF-E3D57E",
+            "polygon_tx_hash": "0x1a5c8df3617fd5be1e3916ba31ca131b1021ad55e9b37221679ee2737ce3b7d7",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-26F241A5",
+            "carrier_suggestion": "Kerala Pilot Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:45:35.482780",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery - BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-344767",
+            "polygon_tx_hash": "0xe60e483d0e41758b897d827831804f43fdbe58e4017b130a201061e5ba1f1f0e",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-750296E9",
+            "carrier_suggestion": "Mayuras Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:45:53.069062",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-B6CCBB",
+            "polygon_tx_hash": "0xa5f499e6aa65ad6da34dcdfb577f0161dff85a4766b4951726e23c473ddb6d94",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-98EDFCDF",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:46:10.915264",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-7D4439",
+            "polygon_tx_hash": "0xb3a444fedebe2762c0e7f05ca7e477ece91290107f7902ccb227d5d85a50390b",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-AB2CFFD5",
+            "carrier_suggestion": "Green Carrier",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:46:28.418082",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-35713E",
+            "polygon_tx_hash": "0x97cab8733f0f470d85285bc1a7ec5353aa8235b403264880337cf74f60352c9f",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-D952E22B",
+            "carrier_suggestion": "Kerala pilot: Green Earth Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:46:46.516600",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "off-platform payment manually confirmed",
+            "upi_tx_id": "REF-53D11E",
+            "polygon_tx_hash": "0x4034ee7669944492f0d67dfdea9af68cea9fcda0011bc824145d3eafddf500cd",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-858C3AF3",
+            "carrier_suggestion": "Kerala Pilote",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:47:04.526720",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "{details}",
+            "upi_tx_id": "REF-03BC88",
+            "polygon_tx_hash": "0x8151c6897ddb23d31fe901d7ea4a308235268f4f551f5b36c6c723e930de06e7",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-9A89AB42",
+            "carrier_suggestion": "Kerala Specialised Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:47:22.843113",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-A26253",
+            "polygon_tx_hash": "0x419908749a00bf7612b4dcea6d20f4ef644d31b15932a32f2d91db9ae50b6679",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-AD2996DA",
+            "carrier_suggestion": "Aditya Logistics Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:47:40.789288",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for BATT-HG-101",
+            "trade_confirmation": "Confirmed",
+            "upi_tx_id": "REF-614D4B",
+            "polygon_tx_hash": "0xe9bbb249eba7e26231376209bad9c4caba08addc8d16f16bc072eed00da9e550",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-CA2BA377",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:47:58.504509",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual",
+            "upi_tx_id": "REF-2F346D",
+            "polygon_tx_hash": "0xe738dd3bb3f0093c37afc8b0d842a0a0fc031d65889c9b810444d1a106a07131",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-326D1A2B",
+            "carrier_suggestion": "Kerala Express",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:48:16.222649",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation received",
+            "upi_tx_id": "REF-02838D",
+            "polygon_tx_hash": "0x92b3ca4e1ee9469d4d9fdb02163edd4fb73cc5adc9a1626b63fb482853bf43e4",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-A33DE579",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:48:33.833246",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Off-platform payment confirmed manually",
+            "upi_tx_id": "REF-1FCFD4",
+            "polygon_tx_hash": "0xc701f9a10b5a18791f1255d78145468076b23f7748dbcce98e6d53d0d65f4fe7",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-03E4B647",
+            "carrier_suggestion": "Kerala Pilot Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:48:51.752864",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed for battery BATT-HG-101",
+            "upi_tx_id": "REF-6E4390",
+            "polygon_tx_hash": "0x8abd4ef01780de1ae38dc944395cb0bd29681ed9b42d1e31076440304e6ff549",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-B6904D72",
+            "carrier_suggestion": "Kerala Specialized Hazardous Cargo Carrier",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:49:10.595801",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed for battery BATT-HG-101",
+            "upi_tx_id": "REF-D80D50",
+            "polygon_tx_hash": "0xe020c1d846748cde6b9e922d373d22fb2289757a35dc986a7c52a771c4fa9df0",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-16B635D5",
+            "carrier_suggestion": "Kerala Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:49:29.436045",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-89EC05",
+            "polygon_tx_hash": "0x1342b352d1bae95ed880013d57d39ddad53d8cf67c8d9e9bc35a706bc9cf5539",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-76E74995",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:49:47.356674",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Confirmed",
+            "upi_tx_id": "REF-FFDAA3",
+            "polygon_tx_hash": "0xd6941420751a47bc65afe5854dfea22b9503d4e32dd2a82c6796408a00d22d6b",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-4FA9E7CD",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:50:05.378131",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101 manual trade",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-6452DB",
+            "polygon_tx_hash": "0x462e516a388a641c8afe9ef93f1a9f02b81ad5dae09ec80e0a6dd46362b16aa8",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-8A0771AC",
+            "carrier_suggestion": "Green Carrier Services",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:50:23.420445",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-BE91CC",
+            "polygon_tx_hash": "0x72d882b8d8495aff5bcd05eac5e62301b11a5eeec44b79b405b6627c3a3850f9",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-0187B336",
+            "carrier_suggestion": "Kerala hazardous cargo specialist",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:50:41.322088",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual Trade Summary for Battery BATT-HG-101",
+            "trade_confirmation": "Manual Trade Confirmation for BATT-HG-101",
+            "upi_tx_id": "REF-F2B59C",
+            "polygon_tx_hash": "0xf175fc65d8d96713b829f25fae97f570669d10509f17a51c734923309ea47eea",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-36416A6B",
+            "carrier_suggestion": "Reliance Logistic",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:50:59.243588",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-B17093",
+            "polygon_tx_hash": "0x2e92180a4d2945384189c6d2f0bbfde55defd832369116d48eb7c2b015a2dee8",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-CEE4EE82",
+            "carrier_suggestion": "Tata Motors Express Cargo",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:51:16.753649",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-ABCD62",
+            "polygon_tx_hash": "0x29a697c2eb5ede866ce482b2418da1d8a00a425c7a8e7188b4331b14d3c9309e",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-F64BC709",
+            "carrier_suggestion": "Kerala Hazardous Materials Transport Service",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:51:34.672239",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "battery BATT-HG-101",
+            "trade_confirmation": "manual trade",
+            "upi_tx_id": "REF-58DCC0",
+            "polygon_tx_hash": "0xb59eb7167cb97a3f0c3e04a82b0c7f708451bca43be3cd12c19373b48af24197",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-2E9F24FA",
+            "carrier_suggestion": "Blue Dart Aviation",
+            "status": "generated",
+            "error": "None"
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:51:53.004030",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-08F292",
+            "polygon_tx_hash": "0xd3ef61a23f9bb0f02be597ab917a82897e8a75c30b86aa1f50b4d3b50723f09d",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-CB45F4F3",
+            "carrier_suggestion": "Tata Motors",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:52:10.726655",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-909A1D",
+            "polygon_tx_hash": "0x9d45912193663f6400d4e626719bfe8c803d827eb7019de7c8ae18155aa0ba3f",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-E769EDF8",
+            "carrier_suggestion": "Kerala Transport Corporation",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:52:28.168177",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-0DE884",
+            "polygon_tx_hash": "0xcf6c1c7aeb62a378ce9717909362ceab170dd9fdc62f46c3667f7766be37da35",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-43A29594",
+            "carrier_suggestion": "Kerala Express Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:52:45.943858",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Transaction failed during processing",
+            "trade_confirmation": "failed",
+            "final_status": "failed",
+            "crm_sync_status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=TransactionResult>{\"crm_sync_status\": \"CRM-TX-0CDA1BE0\", \"error\": null, \"final_status\": \"completed\", \"invoice_summary\": \"Manual trade for battery BATT-HG-101\", \"polygon_explorer_url\": null, \"polygon_tx_hash\": \"0xb45772589c85e48fbc1a99c1deae85b5a81e121c8bc7b35f00ccf5f59373c8aa\", \"trade_confirmation\": \"Confirmed manually off-platform\", \"upi_tx_id\": null}'}}"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-EBC85508",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:53:05.092662",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Payment handled off-platform and manually confirmed",
+            "upi_tx_id": "REF-2B9BC9",
+            "polygon_tx_hash": "0xe43df9d8671de681c812517a7141dde9e5dbec9d923ebf72d6b007b36a1d1513",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-F03FBD49",
+            "carrier_suggestion": "Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:53:22.809242",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual",
+            "upi_tx_id": "REF-30DEA2",
+            "polygon_tx_hash": "0x0f01d83e7d1da34ca154e9776d4c64acb1fecb39a68e49e3c11536e2e3e27558",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-4AA66F67",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:53:40.395837",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101 manual trade summary",
+            "trade_confirmation": "Manual trade confirmation for battery BATT-HG-101",
+            "upi_tx_id": "REF-2D7753",
+            "polygon_tx_hash": "0x657cbb7c9f32c0abc0009545ed8634166be6c2ccf8b9301c839ce8a7e591772b",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-ACE9DFAB",
+            "carrier_suggestion": "Ace Logistics Kerala Pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:53:58.752403",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual Trade for Battery BATT-HG-101",
+            "trade_confirmation": "Payment manually confirmed",
+            "upi_tx_id": "REF-6E5181",
+            "polygon_tx_hash": "0xc0b228e5182baf29b0bf08781865d57cad11854b3d179ace72e2dde25fa57760",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-31430167",
+            "carrier_suggestion": "Swift Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:54:16.776737",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "Confirmed manually",
+            "upi_tx_id": "REF-41273D",
+            "polygon_tx_hash": "0x6546174dd203bbaacd9bca5a569fb3b585eed2a849c20e0e2b9616abdcff14f9",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Failed to generate plan: Error code: 400 - {'error': {'message': \"tool call validation failed: parameters for tool LogisticsPlan did not match schema: errors: [missing properties: 'carrier_suggestion']\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=LogisticsPlan> {\"carriers_suggestion\": \"Kerala Pilot\", \"crm_record_id\": \"CRM-LOG-A31737F4\", \"crm_sync_status\": \"synchronized\", \"distance_km\": 150.5, \"error\": null, \"estimated_cost_inr\": 6772, \"eta_hours\": 3.5, \"route_summary\": \"{\\\\\"distance_km\\\\\": 150.5, \\\\\"duration_hours\\\\\": 3.5, \\\\\"summary\\\\\": \\\\\"Kochi to Munnar via NH766 (Mocked)\\\\\"}\", \"status\": \"generated\"} </function>'}}",
+            "status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"tool call validation failed: parameters for tool LogisticsPlan did not match schema: errors: [missing properties: 'carrier_suggestion']\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=LogisticsPlan> {\"carriers_suggestion\": \"Kerala Pilot\", \"crm_record_id\": \"CRM-LOG-A31737F4\", \"crm_sync_status\": \"synchronized\", \"distance_km\": 150.5, \"error\": null, \"estimated_cost_inr\": 6772, \"eta_hours\": 3.5, \"route_summary\": \"{\\\\\"distance_km\\\\\": 150.5, \\\\\"duration_hours\\\\\": 3.5, \\\\\"summary\\\\\": \\\\\"Kochi to Munnar via NH766 (Mocked)\\\\\"}\", \"status\": \"generated\"} </function>'}}"
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:54:37.418091",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "Manual trade recorded",
+            "upi_tx_id": "REF-3BFA2A",
+            "polygon_tx_hash": "0x1ec4ee224604f123644af56f1edd92b8b5637c94e78056cf26da947e4d213440",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-7CDD5B6F",
+            "carrier_suggestion": "DB Schenker",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:54:56.378431",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual trade confirmed",
+            "upi_tx_id": "REF-8D7351",
+            "polygon_tx_hash": "0x93f2b91c27e29e085924de531a2a5e85a8245033fd569d418c4b4378b8187de1",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-AD9D5599",
+            "carrier_suggestion": "Kerala Pilots (Specialized for Hazardous EV Battery)",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:55:14.424205",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Transaction failed during processing",
+            "trade_confirmation": "failed",
+            "final_status": "failed",
+            "crm_sync_status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"tool call validation failed: parameters for tool TransactionResult did not match schema: errors: [missing properties: 'polygon_explorer_url', 'final_status', 'error']\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=TransactionResult> {\"invoice_summary\": \"manual trade for battery BATT-HG-101\", \"trade_confirmation\": \"confirmed\", \"crm_sync_status\": \"CRM-TX-2265C44A\", \"polygon_tx_hash\": \"0x40e1f4928fd04100794f50e78188ed750cce1ec3ddbc7f313449fcff18b44cc7\", \"upi_tx_id\": \"battery trade ID-101\"} </function>'}}"
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-9CF6D5A9",
+            "carrier_suggestion": "Redington Express",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:55:33.370213",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-9DA872",
+            "polygon_tx_hash": "0xbef782be94a9d6efdb34341a63a251292a0142ddfe1b438fae57c45f25b0075c",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-7CD14CC9",
+            "carrier_suggestion": "Tata Motors Hazmat Services",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:55:51.495229",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-2C1457",
+            "polygon_tx_hash": "0xdb050a66d069c49775ef338bb4526f94af85b4093e05a4e6c999f30597728af4",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-0AA46188",
+            "carrier_suggestion": "Redington Logistics",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T02:56:09.313260",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "Unknown",
+                "soh_percentage": 0.0,
+                "rul_cycles": 0,
+                "hazardous": false,
+                "reasoning": "Fallback due to processing error.",
+                "report_md": "Health data processing mismatch."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "System stability fallback.",
+                "recommendation": "Manual review"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 0.0,
+                "recyclability_pct": 0.0,
+                "environmental_impact_score": "Unknown",
+                "second_life_suitability": "Unknown",
+                "recommendations": [
+                    "Fixing system stability... Manual review requested."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.0,
+                "suggested_range_max": 0.0,
+                "optimal_price": 0.0,
+                "market_verdict": "Unknown",
+                "reasoning": "Fallback market analysis.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manually confirmed",
+            "upi_tx_id": "REF-C86DAC",
+            "polygon_tx_hash": "0x0573d5dde98869a33ca6db7081feabe0bf0e9d6de7e9ffd589035bfcf2ee4cfc",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-3F96B66D",
+            "carrier_suggestion": "Kerala pilot - Greenline Transportation",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:00:34.737695",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manually confirmed",
+            "upi_tx_id": "REF-FC72A0",
+            "polygon_tx_hash": "0xbe9eaa6873426ed3ec111c5df17db6fc71f3671a6c21338fa20d2ce7821e5d13",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-97C51303",
+            "carrier_suggestion": "Emirates SkyCargo - Specialized Hazardous Cargo",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:00:36.170578",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Transaction failed during processing",
+            "trade_confirmation": "failed",
+            "final_status": "failed",
+            "crm_sync_status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"tool call validation failed: parameters for tool TransactionResult did not match schema: errors: [missing properties: 'error']\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=TransactionResult> {\"battery_id\": \"BATT-HG-101\", \"crm_sync_status\": \"CRM-TX-E12CA705\", \"final_status\": \"completed\", \"invoice_summary\": \"Manual trade for battery BATT-HG-101\", \"polygon_explorer_url\": null, \"polygon_tx_hash\": \"0x7950703d6428b9ca3f1c22c5562018f947d2c7f09f75eb60ad3cc3e7c92e1a2d\", \"trade_confirmation\": \"Manual trade confirmed\", \"upi_tx_id\": null} </function>'}}"
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-52501DBF",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:00:55.997144",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-3C3ABF",
+            "polygon_tx_hash": "0xbe050f7596db8ab8c3395e329c07f637cbd301a4a2df25a827cf6c92152e8ddc",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-905D062A",
+            "carrier_suggestion": "Kerala Pilot Services",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:01:17.758691",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manually confirmed payment handled off-platform",
+            "upi_tx_id": "REF-C82306",
+            "polygon_tx_hash": "0x5d2b43de137b8b908f6f333c23e5497591d0de19bb2205cd8b944b1e1ff5dce2",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-55FDEEBC",
+            "carrier_suggestion": "Kerala Express",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:01:39.658101",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101 manual trade",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-D38FB4",
+            "polygon_tx_hash": "0xb985f0dc7e8b3a9cc960c7d2a50ccf4e661bc03f32e920d0e906aa7ed22df578",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-013569D5",
+            "carrier_suggestion": "Kerala PSC (Pilot for hazardous cargo)",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:02:01.469993",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Transaction failed during processing",
+            "trade_confirmation": "failed",
+            "final_status": "failed",
+            "crm_sync_status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"tool call validation failed: parameters for tool TransactionResult did not match schema: errors: [missing properties: 'error']\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=TransactionResult> {\"battery_id\": \"BATT-HG-101\", \"crm_sync_status\": \"CRM-TX-BB79992C\", \"final_status\": \"completed\", \"invoice_summary\": \"manual trade summary\", \"polygon_explorer_url\": \"https://polygon-explorer-url.com/0x5a1ac6314e16c8b83e7fc1b142d4ef3610793c847ceea99a6ac8278e219d07a3\", \"polygon_tx_hash\": \"0x5a1ac6314e16c8b83e7fc1b142d4ef3610793c847ceea99a6ac8278e219d07a3\", \"trade_confirmation\": \"manual trade confirmation\", \"upi_tx_id\": \"CRM-TX-BB79992C\"} </function>'}}"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-AD64B2AD",
+            "carrier_suggestion": "Kerala pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:02:24.281595",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-15A2CD",
+            "polygon_tx_hash": "0x893cb744dbb9abba7ba300332c5a2cecdfb9bc5f26d3138fbe34ec4105a3742e",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-3EFC191F",
+            "carrier_suggestion": "Specialized Kerala Carrier",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:02:45.801806",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery trade: BATT-HG-101",
+            "trade_confirmation": "manual",
+            "upi_tx_id": "REF-B5E1D2",
+            "polygon_tx_hash": "0x24b402bddcbbdca5c1cdf6ca8e3a4fb05b00c41b5460830595c48bc3348d64c3",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-DC02CA71",
+            "carrier_suggestion": "ABC Logistics",
+            "status": "generated",
+            "error": "null"
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:03:06.387562",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "B",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Medium capacity degradation with high market demand, but still within acceptable lifespan.",
+                "report_md": "### Battery Health Assessment Report for BATT-HG-101\n\n### Overview\n\nBattery ID: BATT-HG-101\nBattery Chemistry: NMC\nCapacity (kWh): 75.0\nAverage Voltage: 3.7V\nAverage Temperature: 25.5\u00b0C\n\n### Health Metrics\n\n* State of Health (SOH): 92.5%\n* Remaining Useful Life (RUL) Cycles: 2200 cycles\n\n### Assessment\n\nThe battery is showing moderate capacity degradation but still has a long lifespan ahead. Given the high market demand, it is recommended to continue using the battery. However, it is essential to monitor the battery's health closely and perform regular maintenance to ensure its longevity.\n\n### Recommendations\n\n* Regularly check the battery's voltage and temperature to prevent overheating.\n* Monitor the battery's SOH and RUL to ensure it remains within acceptable levels.\n* Consider replacing the battery when it reaches 80% SOH or 2000 cycles remaining.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": true,
+                "risk_score": 0.8,
+                "fraud_flags": [
+                    "High temperature reading",
+                    "Abnormal voltage reading"
+                ],
+                "reasoning": "Temperature reading of 35\u00b0C is higher than the average temperature for this type of battery, and the voltage reading of 4.2V is slightly above the expected value.",
+                "recommendation": "Further investigation is required to determine if the battery has been tampered with or if there is a legitimate issue."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 110.5,
+                "recyclability_pct": 95.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Consider repurposing in energy storage systems for grid stabilization",
+                    "Utilize LFP chemistry's high recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 0.36,
+                "suggested_range_max": 0.45,
+                "optimal_price": 1200.0,
+                "market_verdict": "Seller's",
+                "reasoning": "High demand battery with slightly below average capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual",
+            "upi_tx_id": "REF-C76885",
+            "polygon_tx_hash": "0xf423af56ff712a60e089e13dc88a744ac574b968b11ccb608a4befd09d847a17",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Failed to generate plan: Error code: 400 - {'error': {'message': \"Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=LogisticsPlan>{\"carrier_suggestion\": \"Specialized Carrier Services India\", \"crm_record_id\": \"CRM-LOG-2967722A\", \"crm_sync_status\": \"synchronized\", \"distance_km\": 150.5, \"error\": null, \"estimated_cost_inr\": 6772, \"eta_hours\": 3.5, \"route_summary\": \"{\\\\\"distance_km\\\\\": 150.5, \\\\\"duration_hours\\\\\": 3.5, \\\\\"summary\\\\\": \\\\\"Kochi to Munnar via NH766 (Mocked)\\\\\"}\", \"status\": \"generated\"}<function>'}}",
+            "status": "failed",
+            "error": "Error code: 400 - {'error': {'message': \"Failed to call a function. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'tool_use_failed', 'failed_generation': '<function=LogisticsPlan>{\"carrier_suggestion\": \"Specialized Carrier Services India\", \"crm_record_id\": \"CRM-LOG-2967722A\", \"crm_sync_status\": \"synchronized\", \"distance_km\": 150.5, \"error\": null, \"estimated_cost_inr\": 6772, \"eta_hours\": 3.5, \"route_summary\": \"{\\\\\"distance_km\\\\\": 150.5, \\\\\"duration_hours\\\\\": 3.5, \\\\\"summary\\\\\": \\\\\"Kochi to Munnar via NH766 (Mocked)\\\\\"}\", \"status\": \"generated\"}<function>'}}"
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:05:48.594276",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101 manual trade",
+            "trade_confirmation": "Manually confirmed off-platform payment",
+            "upi_tx_id": "REF-BB0ECA",
+            "polygon_tx_hash": "0x0c477855659c1de3266f7a93c55732755eef7f4b755cdf0d2fa359d3b2749a2b",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar via NH766 (Mocked)",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-4DF20BB0",
+            "carrier_suggestion": "Kerala Express",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:05:50.028078",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed for battery BATT-HG-101",
+            "upi_tx_id": "REF-0CF7EF",
+            "polygon_tx_hash": "0x5918e8602638fc825df4e64eee2e71def7d52e140fc9acb20fd10172bdc91720",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-BFFD32CB",
+            "carrier_suggestion": "Kerala Hazardous Cargo Transport Services",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:06:01.666227",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Manual trade for battery BATT-HG-101",
+            "trade_confirmation": "Manually confirmed payment",
+            "upi_tx_id": "REF-D9D205",
+            "polygon_tx_hash": "0x23d9e71bc79fb874980df51a606a369946d9fb80914f93b1b27fcea4559bb75d",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-3E6E759D",
+            "carrier_suggestion": "Reddy Transport Services",
+            "status": "generated",
+            "error": "null"
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:06:21.771685",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "manual confirmation",
+            "upi_tx_id": "REF-578F76",
+            "polygon_tx_hash": "0xa9b613789a9e95bd868afa8fe75dbbd1311d8a0bdfb02d8136b3409f20bbcf35",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-D89109CB",
+            "carrier_suggestion": "Kerala Pilot - Hazardous Cargo Specialist",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:06:41.432928",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Battery BATT-HG-101",
+            "trade_confirmation": "Manual trade confirmed",
+            "upi_tx_id": "REF-D866F7",
+            "polygon_tx_hash": "0xa8ee8c17dc9501a24e58ef0de7fd5199d2de2c25e75f654f2420a903bbe34b0f",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-B415EF3D",
+            "carrier_suggestion": "specialized_kerala_pilot",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:07:01.091862",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Battery is in good condition due to high match score and relatively low usage.",
+                "report_md": "### Battery Assessment Report for BATT-HG-101\n\n* **Capacity:** 75.0 kWh\n* **Voltage:** 3.7 V\n* **Temperature:** 25.5\u00b0C\n* **State of Health (SOH):** 92.5%\n* **Remaining Useful Life (RUL) Cycles:** 2200\n* **Owner:** OWN-999\n\n### Recommendations:\n\nBased on the assessment, no immediate action is recommended. However, maintain a close eye on the battery's performance as it approaches its RUL cycles.\n"
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.0,
+                "fraud_flags": [],
+                "reasoning": "Telemetry indicates normal battery health.",
+                "recommendation": "No action required."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.0,
+                "recyclability_pct": 85.2,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Maintain SoH above 80% for optimal recyclability"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 80.0,
+                "suggested_range_max": 95.0,
+                "optimal_price": 3500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and low price point for a 40 kWh battery with a 92.5% state of health.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "off-platform payment manually confirmed",
+            "upi_tx_id": "REF-4EE751",
+            "polygon_tx_hash": "0x9df85a5773155056680c38979ed20bfe723fc6a8cca0236a814381e16d0e75dc",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": "null"
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-06837CD9",
+            "carrier_suggestion": "KeralaPilotServices",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:11:38.589261",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "High capacity, good voltage, moderate temperature, and high market demand. Match score is 3.",
+                "report_md": "BATT-HG-101 has an excellent health with 92.5% SOH and 2200 RUL cycles. The battery is performing well under high market demand."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.3,
+                "fraud_flags": [
+                    "Unusually high max temperature 35\u00b0C"
+                ],
+                "reasoning": "The battery's max temperature is higher than expected, which could indicate potential misuse or environmental factors.",
+                "recommendation": "Verify the battery's storage conditions and inspect for any signs of physical damage."
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 120.75,
+                "recyclability_pct": 85.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "Use for grid stabilization, Upgrade to more efficient charger for reduced waste"
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 30.0,
+                "suggested_range_max": 45.0,
+                "optimal_price": 4500.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand with good condition and moderate capacity",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "manual trade for battery BATT-HG-101",
+            "trade_confirmation": "payment handled off-platform and manually confirmed",
+            "upi_tx_id": "REF-B04BAB",
+            "polygon_tx_hash": "0xd918919dca38191ee79a66fda05cedd1bcc1e492f89873a688cdded426e1551b",
+            "polygon_explorer_url": "local_ledger_view",
+            "final_status": "completed",
+            "crm_sync_status": "success",
+            "error": null
+        },
+        "logistics": {
+            "route_summary": "{\"distance_km\": 150.5, \"duration_hours\": 3.5, \"summary\": \"Kochi to Munnar via NH766 (Mocked)\"}",
+            "distance_km": 150.5,
+            "eta_hours": 3.5,
+            "estimated_cost_inr": 6772,
+            "crm_sync_status": "success",
+            "crm_record_id": "CRM-LOG-81D10FBC",
+            "carrier_suggestion": "DHL-Hazmat-Kerala",
+            "status": "generated",
+            "error": null
+        }
+    },
+    {
+        "timestamp": "2026-02-28T03:18:11.614442",
+        "battery_id": "BATT-HG-101",
+        "intent": "transaction",
+        "reports": {
+            "health": {
+                "battery_id": "BATT-HG-101",
+                "final_grade": "A",
+                "soh_percentage": 92.5,
+                "rul_cycles": 2200.0,
+                "hazardous": false,
+                "reasoning": "Within normal parameters for age and usage. Capacity and voltage are within acceptable ranges.",
+                "report_md": "This NMC battery is in excellent condition. With a capacity of 75kWh and a voltage of 3.7V, it is well within its expected performance range. As it has been used for 2200 cycles, it has a good remaining useful life. The high demand market and moderate match score indicate potential for further use."
+            },
+            "risk": {
+                "battery_id": "BATT-HG-101",
+                "is_fraud": false,
+                "risk_score": 0.12,
+                "fraud_flags": [
+                    "Normal SoH",
+                    "Within acceptable voltage range"
+                ],
+                "reasoning": "Battery SOH is 92.5%, which is within the normal range (90-100%). The maximum voltage and temperature are also within the acceptable limits.",
+                "recommendation": "No action required"
+            },
+            "sustainability": {
+                "battery_id": "BATT-HG-101",
+                "co2_saved_kg": 145.1,
+                "recyclability_pct": 90.0,
+                "environmental_impact_score": "Low",
+                "second_life_suitability": "High",
+                "recommendations": [
+                    "High recyclability rate and potential for second-life applications in energy storage systems or as a spinning reserve."
+                ]
+            },
+            "market": {
+                "battery_id": "BATT-HG-101",
+                "suggested_range_min": 20.0,
+                "suggested_range_max": 50.0,
+                "optimal_price": 800.0,
+                "market_verdict": "Buyer's",
+                "reasoning": "High demand and good capacity make this a good time to buy. Battery health is also good at 92.5% SOH.",
+                "demand_index": "High"
+            }
+        },
+        "transaction": {
+            "invoice_summary": "Transaction processed manually.",
+            "trade_confirmation": "Confirmed",
+            "upi_tx_id": "REF-311B5B",
+            "polygon_tx_hash": "0x51af2e43ac83653e8c93306549c894d406d40af9fac22fe36d552aa08c4245c2",
+            "final_status": "completed",
+            "crm_sync_status": "success"
+        },
+        "logistics": {
+            "route_summary": "Kochi to Munnar ( approx. 130 km )",
+            "distance_km": 130,
+            "eta_hours": 2.5,
+            "estimated_cost_inr": 3500,
+            "carrier_suggestion": "Tata Trucking Services",
+            "status": "generated"
+        }
+    }
+]
