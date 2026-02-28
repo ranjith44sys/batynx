@@ -1,5 +1,14 @@
 # Blockchain-Based Digital Passport for Retired EV Batteries
 
+### Team Soul
+
+1. Rajendran S
+2. Shahila Sulthana B
+3. Ranjith D
+4. Mukesh V
+
+## Introduction
+
 A comprehensive, decentralized ecosystem for tracking, verifying, and repurposing electric vehicle batteries. This project combines **Blockchain Technology** for immutable lifecycle auditability with a **LangGraph-powered AI Multi-Agent System** for advanced diagnostics and marketplace orchestration.
 
 ---
