@@ -1,4 +1,4 @@
-# Blockchain-Based Digital Passport for Retired EV Batteries
+# Batynx: An agentic multi-agent platform for retired EV batteries
 
 ### Team Soul
 
